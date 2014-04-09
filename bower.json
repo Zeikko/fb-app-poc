@@ -1,0 +1,19 @@
+{
+  "name": "fb-app-poc",
+  "version": "0.1.0",
+  "authors": [
+    "Jaakko Ojalehto"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.x",
+    "bootstrap": "latest"
+  }
+}
